@@ -1,6 +1,8 @@
+<!-- 
 [![Header](https://raw.githubusercontent.com/
 vuong-buihv/
 vuong-buihv/master/readme_header.png "Header")](https://github.com/vuong-buihv)
+ -->
 
 ### Hi there 👋
 I'm Vuong BUI and I'm a software engineer at the Belgian Ministry of Economy. You can find me on [![LinkedIn][3.2]][3].
