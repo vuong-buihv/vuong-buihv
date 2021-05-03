@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-buihv&layout=compact)](https://github.com/vuong-buihv)
+
+
+
+![Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username==vuong-buihv&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
