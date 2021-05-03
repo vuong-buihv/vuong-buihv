@@ -15,8 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-buihv&layout=compact)](https://github.com/vuong-buihv)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
+## &#x1f4c8; GitHub Stats
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-buihv&hide=tex&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=27&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Vuong's GitHub Stats" />
+</a>
 
 
 
-![Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuong-buihv&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
