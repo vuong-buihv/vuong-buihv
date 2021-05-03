@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<a>
+
+<a href="https://github.com/vuong-buihv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-buihv&hide=tex&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=27&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Vuong's GitHub Stats" />
+<a href="https://github.com/vuong-buihv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=25&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Vuong's GitHub Stats" />
 </a>
 
 
