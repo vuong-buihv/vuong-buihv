@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-buihv&hide=tex&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/vuong-buihv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=25&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Vuong's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=26&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Vuong's GitHub Stats" />
 </a>
 
 
