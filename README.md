@@ -1,20 +1,15 @@
-### Hi there 👋 I'm Vuong BUI
+[![Header](https://raw.githubusercontent.com/
+vuong-buihv/
+vuong-buihv/master/readme_header.png "Header")](https://github.com/vuong-buihv)
 
-<!--
-**vuong-buihv/vuong-buihv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+I'm Vuong BUI and I'm a software engineer at the Belgian Ministry of Economy. You can find me on [![LinkedIn][3.2]][3].
 
-Here are some ideas to get you started:
+<!-- 
+## &#x270d; Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+[link](https://github.com/vuong-buihv)
+ -->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -37,4 +32,20 @@ Here are some ideas to get you started:
 </a>
 
 
+<!-- links to social media icons -->
 
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/vuong-buihv/vuong-buihv/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[3]: https://www.linkedin.com/in/buihv
