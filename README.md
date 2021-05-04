@@ -19,9 +19,9 @@ I'm Vuong BUI and I'm a software engineer at the Belgian Ministry of Economy.
 
 ## 🔧 Technologies & Tools
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)](#)
-![](https://img.shields.io/badge/Code-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+[![](https://img.shields.io/badge/Code-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)](/)
+[![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)]()
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)](")
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
@@ -34,14 +34,14 @@ I'm Vuong BUI and I'm a software engineer at the Belgian Ministry of Economy.
 
 ## &#x1f4c8; GitHub Stats
 <p>
- <a href=#">
+ <a href="#">
   <img src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv />
  </a>
 </p>
-<a href=#">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=40&count_private=true" alt="Vuong's GitHub Stats" />
 </a>
-<a href=#">
+<a href="/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-buihv&hide=tex" />
 </a>
 
