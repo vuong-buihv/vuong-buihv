@@ -18,7 +18,7 @@ I'm Vuong BUI and I'm a software engineer at the Belgian Ministry of Economy.
 
 
 ## 🔧 Technologies & Tools
-[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)](##)
+[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=0074bd&color=2bbc8a)](##)
 [![](https://img.shields.io/badge/Code-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)](#-)
 [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)](#/)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)](#.)
