@@ -33,8 +33,10 @@ I'm Vuong BUI and I'm a software engineer at the Belgian Ministry of Economy.
 
 
 ## &#x1f4c8; GitHub Stats
-<p align=left> 
+<p align=left>
+ <a>
   <img src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv />
+ </a>
 </p>
 <a href="https://github.com/vuong-buihv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=40&count_private=true" alt="Vuong's GitHub Stats" />
