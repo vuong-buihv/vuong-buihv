@@ -26,8 +26,8 @@ I'm a software engineer working primarily in Java (Spring Boot) and TypeScript (
 [![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=0A8754)](##)
 [![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=0A8754)](##)
 [![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css-wizardry&logoColor=white&color=0A8754)](##)
-[![](https://img.shields.io/badge/Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=0A8754)](##)
 [![](https://img.shields.io/badge/JPA-informational?style=flat&logo=hibernate&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=0A8754)](##)
 
 [![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=D35400)](##)
 [![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=D35400)](##)
