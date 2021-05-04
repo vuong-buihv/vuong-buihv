@@ -37,11 +37,6 @@ I'm a software engineer working primarily in Java (Spring Boot) and TypeScript (
 
 
 ## GitHub Stats
-<p>
- <a href=##>
-  <img src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv />
- </a>
-</p>
 <a href=##>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=40&count_private=true" alt="Vuong's GitHub Stats" />
 </a>
@@ -49,6 +44,10 @@ I'm a software engineer working primarily in Java (Spring Boot) and TypeScript (
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-buihv&hide=tex" />
 </a>
 
+## Visitors
+<a href=##>
+ <img src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv />
+</a>
 
 <!-- links to social media icons -->
 
