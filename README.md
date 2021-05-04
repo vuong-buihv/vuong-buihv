@@ -17,7 +17,7 @@ I'm a software engineer working primarily in Java (Spring Boot) and TypeScript (
  -->
 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 [![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=0A8754)](##)
 [![](https://img.shields.io/badge/Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=0A8754)](##)
 [![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0A8754)](##)
@@ -36,7 +36,7 @@ I'm a software engineer working primarily in Java (Spring Boot) and TypeScript (
 [![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0F40C3)](##)
 
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 <p>
  <a href=##>
   <img src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv />
