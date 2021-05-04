@@ -33,12 +33,12 @@ I'm Vuong BUI and I'm a software engineer at the Belgian Ministry of Economy.
 
 
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/vuong-buihv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-buihv&hide=tex" />
-</a>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=vuong-buihv0&show_icons=true&include_all_commits=true)](https://github.com/vuong-buihv/)
 <a href="https://github.com/vuong-buihv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=40&count_private=true" alt="Vuong's GitHub Stats" />
+</a>
+<a href="https://github.com/vuong-buihv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-buihv&hide=tex" />
 </a>
 
 
