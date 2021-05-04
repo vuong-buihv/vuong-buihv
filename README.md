@@ -18,20 +18,20 @@ I'm a software engineer working primarily in Java (Spring Boot) and TypeScript (
 
 
 ## 🔧 Technologies & Tools
-[![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)](##)
-[![](https://img.shields.io/badge/Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)](##)
-[![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)](##)
-[![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)](##)
-[![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)](##)
-[![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](##)
-[![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)](##)
-[![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css-wizardry&logoColor=white&color=2bbc8a)](##)
+[![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css-wizardry&logoColor=white&color=0A8754)](##)
 
-[![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=ffdab9 )](##)
-[![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ffdab9 )](##)
-[![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=ffdab9 )](##)
+[![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=D35400)](##)
+[![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=D35400)](##)
+[![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=D35400)](##)
 
-[![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=84baec)](##)
+[![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0F40C3)](##)
 
 
 ## &#x1f4c8; GitHub Stats
