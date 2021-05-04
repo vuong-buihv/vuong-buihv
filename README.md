@@ -34,7 +34,7 @@ I'm Vuong BUI and I'm a software engineer at the Belgian Ministry of Economy.
 
 ## &#x1f4c8; GitHub Stats
 <p align=left>
- <a>
+ <a href=#">
   <img src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv />
  </a>
 </p>
