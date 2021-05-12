@@ -5,6 +5,7 @@ vuong-buihv/master/readme_header.png "Header")](https://github.com/vuong-buihv)
  -->
 
 ## Hi there 👋, I'm Vuong
+<a href=##><img align="right" src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv /></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-buihv-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buihv/)](https://www.linkedin.com/in/buihv/) [![Github Badge](https://img.shields.io/badge/-vuong--buihv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vuong-buihv/)](https://www.github.com/vuong-buihv/) [![Twitter Badge](https://img.shields.io/badge/-vuong__rocks-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vuong_rocks/)](https://www.twitter.com/vuong_rocks/)
 
@@ -44,10 +45,6 @@ I'm a software engineer working primarily in Java (Spring Boot) and TypeScript (
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-buihv&hide=tex" />
 </a>
 
-## Visitors
-<a href=##>
- <img src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv />
-</a>
 
 <!-- links to social media icons -->
 
