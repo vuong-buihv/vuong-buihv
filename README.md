@@ -36,7 +36,7 @@ I'm a software engineer working primarily in Java (Spring Boot) and TypeScript (
 [![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0F40C3)](##)
 
 
-<h2> GitHub Stats <a href=##><img align="right" src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv /></a></h2>
+<h2> GitHub Stats <a href=##><img src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv /></a></h2>
 <a href=##>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=40&count_private=true" alt="Vuong's GitHub Stats" />
 </a>
