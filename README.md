@@ -4,7 +4,7 @@ vuong-buihv/
 vuong-buihv/master/readme_header.png "Header")](https://github.com/vuong-buihv)
  -->
 
-<h2>Hi there 👋, I'm Vuong <a href=##><img align="right" src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv /></a></h2>
+## Hi there 👋, I'm Vuong
 
 [![Linkedin Badge](https://img.shields.io/badge/-buihv-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buihv/)](https://www.linkedin.com/in/buihv/) [![Github Badge](https://img.shields.io/badge/-vuong--buihv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vuong-buihv/)](https://www.github.com/vuong-buihv/) [![Twitter Badge](https://img.shields.io/badge/-vuong__rocks-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vuong_rocks/)](https://www.twitter.com/vuong_rocks/)
 
@@ -36,7 +36,7 @@ I'm a software engineer working primarily in Java (Spring Boot) and TypeScript (
 [![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0F40C3)](##)
 
 
-## GitHub Stats
+<h2> GitHub Stats <a href=##><img align="right" src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv /></a></h2>
 <a href=##>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuong-buihv&show_icons=true&line_height=40&count_private=true" alt="Vuong's GitHub Stats" />
 </a>
