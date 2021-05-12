@@ -4,7 +4,7 @@ vuong-buihv/
 vuong-buihv/master/readme_header.png "Header")](https://github.com/vuong-buihv)
  -->
 
-## Hi there 👋, I'm Vuong <img align="right" src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv />
+<h2>Hi there 👋, I'm Vuong <img align="right" src=https://komarev.com/ghpvc/?username=vuong-buihv alt=vuong-buihv /></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-buihv-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buihv/)](https://www.linkedin.com/in/buihv/) [![Github Badge](https://img.shields.io/badge/-vuong--buihv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vuong-buihv/)](https://www.github.com/vuong-buihv/) [![Twitter Badge](https://img.shields.io/badge/-vuong__rocks-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vuong_rocks/)](https://www.twitter.com/vuong_rocks/)
 
